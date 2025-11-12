@@ -4,7 +4,7 @@
 A classic arcade-style pygame adventure – protect your village from incoming zombie hordes!
 
 ## **Project Overview**
-Zombie OutCry is a Python game built with Pygame in which you defend your village and family against waves of animated zombies. The game features sound effects, custom art assets, and dynamic gameplay elements.
+Zombie OutCry is a Python game built with Pygame in which you defend your village and family against waves of animated zombies. The game features sound effects, fun art assets, and dynamic gameplay elements.
 
 ## **Features**
 - Animated characters: Player, zombie, and bullet sprites, complete with walking cycles.
