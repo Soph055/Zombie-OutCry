@@ -15,4 +15,11 @@ Zombie OutCry is a Python game built with Pygame in which you defend your villag
 - Game states: Win, lose, pause, help, and restart screens.
 - Score tracking: Progress is saved and displayed after each game.
 
+
+
+https://github.com/user-attachments/assets/086fefe5-e23b-4486-8f8c-90d7c2562e8a
+
+Press play to see the video.
+
+
 Built 2022/README updated 2025
