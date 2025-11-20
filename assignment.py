@@ -18,11 +18,12 @@
 
 import pygame
 import ctypes
+import sys
 import random
 from pygame import mixer
 
- 
-ctypes.windll.user32.SetProcessDPIAware()
+if sys.platform.startswith("win"):
+    ctypes.windll.user32.SetProcessDPIAware()
 
 # a list with images of zombie walking
 zombWalk =[pygame.image.load("images/Walk_1.png"),pygame.image.load("images/Walk_2.png"),
